@@ -1,0 +1,14 @@
+S:\kmthrail\AppDev22\Project1\Project1\bin\Debug\Project1.exe.config
+S:\kmthrail\AppDev22\Project1\Project1\bin\Debug\Project1.exe
+S:\kmthrail\AppDev22\Project1\Project1\bin\Debug\Project1.pdb
+S:\kmthrail\AppDev22\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+S:\kmthrail\AppDev22\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+S:\kmthrail\AppDev22\Project1\Project1\obj\Debug\Project1.exe
+S:\kmthrail\AppDev22\Project1\Project1\obj\Debug\Project1.pdb
+D:\Kaiden Thrailkill\Documents\Application Dev\Project1\Project1\bin\Debug\Project1.exe.config
+D:\Kaiden Thrailkill\Documents\Application Dev\Project1\Project1\bin\Debug\Project1.exe
+D:\Kaiden Thrailkill\Documents\Application Dev\Project1\Project1\bin\Debug\Project1.pdb
+D:\Kaiden Thrailkill\Documents\Application Dev\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+D:\Kaiden Thrailkill\Documents\Application Dev\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\Kaiden Thrailkill\Documents\Application Dev\Project1\Project1\obj\Debug\Project1.exe
+D:\Kaiden Thrailkill\Documents\Application Dev\Project1\Project1\obj\Debug\Project1.pdb
